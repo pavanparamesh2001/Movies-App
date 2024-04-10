@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: white;
+    background-image: url("https://wallpapers.com/images/hd/streaming-wnpswsfjqh5fj3dk.jpg"); background-size: 100%;
+}
+.search-container{
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 200px;
+    color: yellow;
+    font-size: 40px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.movie-details {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.movie-details img {
+    max-width: 200px;
+    margin-right: 20px;
+}
+#movieDetailsContainer{
+    background-color: dimgray;
+    font-size: 15px;
+    color: black;
+    
+   
+    
+}
+
+
+
+
+
+
